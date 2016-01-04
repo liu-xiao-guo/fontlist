@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=fontlist
+Exec=./qtc_device_debughelper.py app "qmlscene $@ Main.qml"
+Icon=fontlist.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

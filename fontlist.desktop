@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=fontlist
+Exec=qmlscene $@ Main.qml
+Icon=fontlist.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
